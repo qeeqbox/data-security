@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/data-security/main/data-security.png"></p>
+
 ## Data Security
 Safeguarding your personal information (How your info is protected)
 
