@@ -2,6 +2,8 @@
 Safeguarding your personal information (How your info is protected)
 
 ## CIA Triad
+CIA triad stands for Confidentiality, Integrity, and Availability, which are the most important concepts within information security
+
 #### Confidentiality
 Data should not be accessed without permission (Data is stored in a safe place)
 - Sending a message to a specific target
