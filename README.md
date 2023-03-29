@@ -23,3 +23,6 @@ b732788a-d58b-4137-bd64-b5b24fc2d32a
 
 ## References
 - https://en.wikipedia.org/wiki/Information_security
+
+## License
+[Creative Commons Attribution 4.0 International License](./LICENCE)
